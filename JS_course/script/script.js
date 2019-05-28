@@ -1,5 +1,6 @@
 'use srtict';
 /* 
+
 	var leftBorderWidth = 1;
 	let second = 2;
 	const pi = 3.14;
@@ -38,12 +39,16 @@
 	incr++;
 	decr--;
 
- */
-/* if (2*4 == 7) {
+
+
+if (2*4 == 7) {
 	console.log("Right!");
 } else {
 	console.log("Wrong!");
-} */
+}
+
+
+
 let num = 50;
 
 if (num < 49) {
@@ -72,4 +77,4 @@ switch (num) {
 	default:
 		console.log("Something going wrong!");
 		break;
-}
+} */
