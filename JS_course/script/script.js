@@ -79,12 +79,12 @@ switch (num) {
 		break;
 } */
 
-let num = 50;
+/* let num = 50;
 
-// while (num < 55) {
-// 	console.log(num);
-// 	num++;
-// }
+while (num < 55) {
+	console.log(num);
+	num++;
+}
 
 do {
 	console.log(num);
@@ -97,4 +97,10 @@ for (let i = 1; i < 8; i++) {
 		continue;
 	}
 	console.log(i);
+} */
+
+function showFirstMessage(text) {
+	alert(text);
 }
+
+showFirstMessage("Hello world");
